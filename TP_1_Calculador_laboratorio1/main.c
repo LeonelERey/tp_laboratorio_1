@@ -34,6 +34,11 @@ int main()
             printf("9- Salir\n");
 
             scanf("%d",&opcion);
+            if(opcion<1||opcion>9)
+
+                {
+                    printf("Introduzca una opcion valida (1-9)\n");
+                }
 
         }
         else
@@ -52,6 +57,11 @@ int main()
 
                 scanf("%d",&opcion);
                 flag3=1;
+                if(opcion<1||opcion>9)
+
+                {
+                    printf("Introduzca una opcion valida (1-9)\n");
+                }
 
             }
             else
@@ -69,6 +79,11 @@ int main()
                     printf("9- Salir\n");
 
                     scanf("%d",&opcion);
+                      if(opcion<1||opcion>9)
+
+                    {
+                        printf("Introduzca una opcion valida (1-9)\n");
+                    }
                 }
                 else
                 {
@@ -84,12 +99,11 @@ int main()
 
                     scanf("%d",&opcion);
                     if(opcion<1||opcion>9)
-                  
-			{
-                        
-				printf("Introduzca una opcion valida (1-9)\n");
+
+                    {
+                        printf("Introduzca una opcion valida (1-9)\n");
                     }
-                	}
+                }
             }
         }
         switch(opcion)
