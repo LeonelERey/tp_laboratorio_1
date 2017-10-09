@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1507043082 source:d:\gonzalez.elias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"lib.h"
+
+1507043486 source:d:\gonzalez.elias\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"lib.h"
+
+1507043082 d:\gonzalez.elias\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1507512689 source:c:\users\leeoe\desktop\gonzalez.elias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Libreria.h"
+
+1507029412 c:\users\leeoe\desktop\gonzalez.elias\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1507512962 source:c:\users\leeoe\desktop\gonzalez.elias\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Libreria.h"
+
+1507516434 c:\users\leeoe\desktop\gonzalez.elias\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
